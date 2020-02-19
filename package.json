@@ -1,0 +1,22 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irakli12345/git-practice.git"
+  },
+  "author": "Ika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irakli12345/git-practice/issues"
+  },
+  "homepage": "https://github.com/irakli12345/git-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
